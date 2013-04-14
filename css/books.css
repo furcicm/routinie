@@ -1,0 +1,330 @@
+#add-progress, #add-new-progress, #completed {
+	padding: 20px;
+	border: 1px solid #DDD;
+	height: 150px;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+	border-radius: 3px;
+}
+
+#add-progress {
+	margin: 75px 0 30px !important;
+	height: auto;
+}
+
+#add-new-progress {
+	height: 95px;
+	margin-bottom: 30px;
+}
+
+#completed {
+	height: auto;
+}
+
+.view-process {
+	float: right;
+	background: #00B5EE;
+	border-radius: 3px;
+	width: 197px;
+	text-align: center;
+	height: 22px;
+	padding: 3px;
+	color: white;
+	font-size: 1.05em;
+	font-weight: 400;
+	border: 1px solid rgb(0, 170, 217);
+}
+
+.title {
+	width: 940px;
+	font-size: 1em;
+	color: #FFF;
+	background: #00B5EE;
+	padding: 8px 20px;
+	margin-left: -21px;
+	margin-top: -21px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	
+}
+
+.progress-title {
+	margin-top: 45px;
+	font-size: 0.9em;
+	color: #888;
+}
+
+#add-progress .display-input-progress {
+	width: 400px;
+	margin-top: 5px;
+	margin-left: 0;
+	float:left;
+	font-size: 0.9em;
+	color: #888;
+	font-weight: 400;
+}
+
+#add-progress-subtitle-left, .subtitle-place {
+	float: left;
+	color: #888;
+	margin-top: 10px;
+	width: 450px;
+}
+
+#add-progress-subtitle-left.subtitle-place, .subtitle-place {
+	width:129px;
+}
+
+div#add-progress-subtitle-right, div#add-new-progress-subtitle-right, div.completed-period  {
+	float: right;
+	padding-right: 314px;
+	width: 160px;
+	margin-top: 10px;
+	color: #888;
+}
+
+.add-progress-form {
+	float: right;
+	margin-top: 5px;
+	width: 478px;
+}
+
+.add-progress-form input[type="submit"],#add-new-progress input[type="submit"] {
+	height: 29px;
+	width: 100px;
+	margin-right: 0;
+	color: #FFF;
+	background-color: #00B5EE;
+	margin-left: 5px;
+	float: right;
+	padding-left: 0;
+	border: 1px solid rgb(0, 170, 217);
+}
+
+.add-progress-form input, #add-new-progress input, .display-input-progress {
+	font-weight: 300;	
+	margin-right: 10px;
+	font-size: 1.05em;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	width: 102px;
+	padding: 4px;
+	padding-left: 10px;
+	height: 20px;
+	float: left;
+}
+
+#float-right  {
+	float: right;
+	width: 478px;
+}
+
+#add-new-progress input[name="title"] {
+	width: 400px;
+	float: left;
+}
+
+#add-new-progress input[name="submit-add"] {	
+	width: 205px;
+	float: right;
+	border: 1px solid rgb(0, 170, 217);
+	padding-left: 0;
+	color: #FFF;
+	cursor: pointer;
+}
+
+#add-new-progress form {
+	margin-top: 40px;
+}
+
+#add-new-progress.add-new-progress-traveling {
+	margin-top: 50px;
+}
+
+
+
+.add-progress-row {
+	margin-bottom: 45px;
+}
+.completed-title {
+	float: left;
+	width: 700px;
+	margin-bottom: 10px;
+}
+
+div.completed-title-traveling {
+	float: left;
+	width: 235px;
+	margin: 10px 10px 10px 0;
+}
+
+.row-completed {
+	margin-top:10px;
+	height: 25px;
+	color: #888;
+	font-size: 0.9em;
+}
+
+form-add-new-progress {
+	margin-top: 40px;
+}
+
+input, textarea {
+	font-family: 'Open Sans';
+	font-size: 0.9em !important;
+	color: #888; 
+}
+
+.placeholder { 
+	font-family: 'Open Sans';
+	font-size: 0.9em !important;
+	color: #888; 
+}
+
+input:focus {
+	border: 1px solid #39C !important;
+	outline: 0;
+		
+}
+
+#space {
+	height: 10px;
+}
+
+.error-red {
+	border: 1px solid red !important;
+}
+
+div.completed-continent, div.completed-country, div.completed-place {
+	width: 235px !important;
+	margin-right: 10px;
+	overflow: hidden;
+}
+div.completed-period {
+	padding-right: 20px !important;
+}
+
+div.clearfix {
+	clear:both;
+}
+
+.completed-title-traveling.completed-period {
+	width: 140px;
+	margin-left: 22px;
+}
+
+div.progress-title-social {
+	margin-top: 60px;
+}
+
+input.input-title-social {
+	float: left;
+}
+
+.add-new-social-subtitle {
+	float: right;
+	width: 130px;
+	margin-top: 10px;
+	color: #888;
+}
+
+.subtitle-social-time {
+	margin-right: 215px;
+}
+
+.completed-social-time {
+	margin-right: 20px;
+}
+
+.input-social-whom {
+	width: 400px !important;
+}
+
+.completed-social-with {
+	float: left;
+	width: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #888;
+}
+
+.completed-social-where {
+	margin-right: 200px;
+	margin-bottom: 10px;
+}
+
+.completed-social-where-item {
+	float: right;
+	width: 300px;
+	margin-right: 28px;
+}
+
+.completed-social-time-item {
+	float: right;
+	width: 150px;
+}
+.completed-social-with-item {
+	float: left;
+	width: 450px;
+}
+
+.row-completed-social {
+	height: auto; 
+	border-bottom: 1px solid #EEE;
+}
+
+.enterteinment-random, .money-random {
+	float: left;
+	width: 80px;
+	margin-right: 50px;
+	height: 27px;	
+	color: #888;
+}
+
+.movie-select {
+	float: left;
+	margin-right: 30px;
+	height: 30px;
+	width: 100px;
+}
+
+.margin-top-fix {
+	margin-top: 0;
+}
+
+.width-fix {
+	width: 300px !important;
+}
+
+.music-random {
+	color: #888;
+	float: right;
+	margin-right: 400px;
+	margin-top: 10px;
+	height: 30px;
+	width: 80px;
+}
+
+.progress3-random {
+	margin-left: 30px;
+}
+
+.progress4-random {
+	margin-right: 0px;
+}
+
+.random-title {
+	width: 80px;
+	float: right;
+	margin-top: 10px;
+	color: #888;
+}
+
+.random-money-title {
+	margin-right: 50px;
+}
+
+.currency-money-title {
+	margin-right: 238px;
+}
+
+

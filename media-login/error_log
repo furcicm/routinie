@@ -1,0 +1,184 @@
+[16-Sep-2012 13:23:20] PHP Parse error:  syntax error, unexpected T_ELSE in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 17
+[16-Sep-2012 13:45:12] PHP Parse error:  syntax error, unexpected '<' in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 4
+[16-Sep-2012 16:45:35] PHP Warning:  curl_close() expects exactly 1 parameter, 0 given in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 16
+[16-Sep-2012 17:46:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/include/javascript.php:10) in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 36
+[18-Sep-2012 21:08:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 5
+[18-Sep-2012 21:08:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 19
+[18-Sep-2012 21:09:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 5
+[18-Sep-2012 21:09:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 19
+[18-Sep-2012 21:09:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 5
+[18-Sep-2012 21:09:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 19
+[18-Sep-2012 21:10:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 3
+[18-Sep-2012 21:10:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 19
+[18-Sep-2012 21:10:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 3
+[18-Sep-2012 21:10:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/login_twitter.php:2) in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 18
+[18-Sep-2012 21:24:30] PHP Parse error:  syntax error, unexpected '}' in /home/wesrom/public_html/routinie.com/media-login/login_twitter.php on line 21
+[19-Sep-2012 17:51:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_linkedin.php:39) in /home/wesrom/public_html/routinie.com/media-login/login_linkedin.php on line 271
+[19-Sep-2012 17:56:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/linkedinoauth/linkedinoauth.php:8) in /home/wesrom/public_html/routinie.com/media-login/login_linkedin.php on line 270
+[19-Sep-2012 17:56:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/media-login/login_linkedin.php:58) in /home/wesrom/public_html/routinie.com/media-login/login_linkedin.php on line 270
+[19-Sep-2012 17:58:35] No OAuth state found
+[19-Sep-2012 17:58:35] Calling 'https://api.linkedin.com/uas/oauth/requestToken?oauth_version=1.0&oauth_nonce=b0c697e30b2e742c7bb39fab0cab7693&oauth_timestamp=1348066715&oauth_consumer_key=mgpi34l1ffbj&oauth_signature_method=HMAC-SHA1&oauth_signature=sXWocfxkIr4pgDiLYH3zG0hldIs%3D'
+[19-Sep-2012 17:58:36] OAuth request: https://api.linkedin.com/uas/oauth/requestToken
+[19-Sep-2012 17:58:36] OAuth Response: oauth_token=29ed1552-c2b5-4c41-a7ae-7c518b6c8432&oauth_token_secret=6c754ab8-3326-43c5-891c-79f87df6c6b6&oauth_callback_confirmed=true&xoauth_request_auth_url=https%3A%2F%2Fapi.linkedin.com%2Fuas%2Foauth%2Fauthorize&oauth_expires_in=599
+[19-Sep-2012 17:58:36] Setting OAuth state to - Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => 
+    [access_token_secret] => 
+    [state] => start
+)
+
+[19-Sep-2012 17:58:53] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => 
+    [access_token_secret] => 
+    [state] => start
+)
+
+[19-Sep-2012 17:58:53] $_REQUEST: Array
+(
+    [oauth_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [oauth_verifier] => 17258
+    [fbm_359017204186590] => base_domain=.routinie.com
+    [PHPSESSID] => d04aa331a35d27c1e4a00237edabe105
+)
+
+[19-Sep-2012 17:58:53] Found access tokens in the URL - 29ed1552-c2b5-4c41-a7ae-7c518b6c8432, 17258
+[19-Sep-2012 17:58:53] Creating API with 29ed1552-c2b5-4c41-a7ae-7c518b6c8432, 6c754ab8-3326-43c5-891c-79f87df6c6b6
+[19-Sep-2012 17:58:53] Calling 'https://api.linkedin.com/uas/oauth/accessToken?oauth_version=1.0&oauth_nonce=45ffea9229fbb6ee270d54aa87ed1d5c&oauth_timestamp=1348066733&oauth_consumer_key=mgpi34l1ffbj&oauth_verifier=17258&oauth_token=29ed1552-c2b5-4c41-a7ae-7c518b6c8432&oauth_signature_method=HMAC-SHA1&oauth_signature=oXkKmdbLKb%2FO%2FvU0j4UjNKJTZAM%3D'
+[19-Sep-2012 17:58:54] $r: oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_token_secret=d92638fd-b51a-4e83-b17c-1dcf0bf76983&oauth_expires_in=5183999&oauth_authorization_expires_in=5183999
+[19-Sep-2012 17:58:54] Calculated access tokens b4f160c3-7636-4d41-bb26-0373baa7cf19, d92638fd-b51a-4e83-b17c-1dcf0bf76983
+[19-Sep-2012 17:58:54] Setting OAuth state to - Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 17:58:54] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=61f53388e6272d377bcf8905c85dbcb2&oauth_timestamp=1348066734&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=%2BkeDKTxHWIZ%2FTZq3TkP%2FIObwGxg%3D'
+[19-Sep-2012 17:59:46] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 17:59:46] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=e6141d2623dffe8366aa4b72ab7bd264&oauth_timestamp=1348066786&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=bmJgW7tTjavOxoDXT7ohQiR%2FSus%3D'
+[19-Sep-2012 17:59:53] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 17:59:53] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=471820dffda37bc24e88762c95c04671&oauth_timestamp=1348066793&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=ODs1aRp8UhWga7IEjNVBNItf0Hw%3D'
+[19-Sep-2012 17:59:59] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 17:59:59] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=46b69d92b933a65582135ff86fee18a5&oauth_timestamp=1348066799&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=cd0UlvIa%2BOfHe8vvdpV41JGYsLY%3D'
+[19-Sep-2012 18:00:24] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 18:00:24] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=5ce031e1d84620d74e06788f6adc8de3&oauth_timestamp=1348066824&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=csNssRRzgmg%2FPgk5PNnpLGd%2FJ4E%3D'
+[19-Sep-2012 18:00:47] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 18:00:47] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=08850c93bfd3c2df70c75a3bcdea32d4&oauth_timestamp=1348066847&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=aPGWNjDEYykPGEB7CqZm8iBxNDE%3D'
+[19-Sep-2012 18:00:49] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 18:00:49] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=b1b1062dca4dfd7b53bf1b5d2eb72b28&oauth_timestamp=1348066849&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=0buJDGjZjJH2hWpXu9dWL%2FzhiFY%3D'
+[19-Sep-2012 18:00:50] Found state Array
+(
+    [request_token] => 29ed1552-c2b5-4c41-a7ae-7c518b6c8432
+    [request_token_secret] => 6c754ab8-3326-43c5-891c-79f87df6c6b6
+    [access_token] => b4f160c3-7636-4d41-bb26-0373baa7cf19
+    [access_token_secret] => d92638fd-b51a-4e83-b17c-1dcf0bf76983
+    [state] => done
+)
+
+[19-Sep-2012 18:00:50] Calling 'http://api.linkedin.com/v1/people/~?oauth_version=1.0&oauth_nonce=ec6aa5a04b82096dc7dd034ca9dcb992&oauth_timestamp=1348066850&oauth_consumer_key=mgpi34l1ffbj&oauth_token=b4f160c3-7636-4d41-bb26-0373baa7cf19&oauth_signature_method=HMAC-SHA1&oauth_signature=oNvYu4Rvp%2BF5fqt74C7iHcvOndQ%3D'
+[19-Sep-2012 18:01:02] No OAuth state found
+[19-Sep-2012 18:01:02] Calling 'https://api.linkedin.com/uas/oauth/requestToken?oauth_version=1.0&oauth_nonce=31b28b25b0bec5866d38b238edb751e4&oauth_timestamp=1348066862&oauth_consumer_key=mgpi34l1ffbj&oauth_signature_method=HMAC-SHA1&oauth_signature=ONlW8kE1rOlja0poDPUiKhz%2FxYY%3D'
+[19-Sep-2012 18:01:03] OAuth request: https://api.linkedin.com/uas/oauth/requestToken
+[19-Sep-2012 18:01:03] OAuth Response: oauth_token=3a7b9884-0847-40ef-b9e6-f24ce1b12adf&oauth_token_secret=d862c7f0-58d9-487b-8988-d49b29c92dde&oauth_callback_confirmed=true&xoauth_request_auth_url=https%3A%2F%2Fapi.linkedin.com%2Fuas%2Foauth%2Fauthorize&oauth_expires_in=599
+[19-Sep-2012 18:01:03] Setting OAuth state to - Array
+(
+    [request_token] => 3a7b9884-0847-40ef-b9e6-f24ce1b12adf
+    [request_token_secret] => d862c7f0-58d9-487b-8988-d49b29c92dde
+    [access_token] => 
+    [access_token_secret] => 
+    [state] => start
+)
+
+[19-Sep-2012 18:01:22] Found state Array
+(
+    [request_token] => 3a7b9884-0847-40ef-b9e6-f24ce1b12adf
+    [request_token_secret] => d862c7f0-58d9-487b-8988-d49b29c92dde
+    [access_token] => 
+    [access_token_secret] => 
+    [state] => start
+)
+
+[19-Sep-2012 18:03:03] No OAuth state found
+[19-Sep-2012 18:03:03] Calling 'https://api.linkedin.com/uas/oauth/requestToken?oauth_version=1.0&oauth_nonce=d31bfb8f8325bb15a4c379b77d0066bb&oauth_timestamp=1348066983&oauth_consumer_key=mgpi34l1ffbj&oauth_signature_method=HMAC-SHA1&oauth_signature=m7tE69c5mmGgFIh2gno4RZGnvUc%3D'
+[19-Sep-2012 18:03:04] OAuth request: https://api.linkedin.com/uas/oauth/requestToken
+[19-Sep-2012 18:03:04] OAuth Response: oauth_token=ac072398-f0a9-4081-9d98-e4889f3ae9a7&oauth_token_secret=4b984c94-11b7-4998-a994-d954d60db434&oauth_callback_confirmed=true&xoauth_request_auth_url=https%3A%2F%2Fapi.linkedin.com%2Fuas%2Foauth%2Fauthorize&oauth_expires_in=599
+[19-Sep-2012 18:03:04] Setting OAuth state to - Array
+(
+    [request_token] => ac072398-f0a9-4081-9d98-e4889f3ae9a7
+    [request_token_secret] => 4b984c94-11b7-4998-a994-d954d60db434
+    [access_token] => 
+    [access_token_secret] => 
+    [state] => start
+)
+
+[26-Sep-2012 20:42:57] PHP Warning:  include(include/connect_db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wesrom/public_html/routinie.com/media-login/logged.php on line 3
+[26-Sep-2012 20:42:57] PHP Warning:  include(include/connect_db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wesrom/public_html/routinie.com/media-login/logged.php on line 3
+[26-Sep-2012 20:42:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/connect_db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wesrom/public_html/routinie.com/media-login/logged.php on line 3
+[27-Feb-2013 00:27:45 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:10 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:10 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:28:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected $end in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 48
+[27-Feb-2013 00:32:29 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/linked_account.php:10) in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 40
+[27-Feb-2013 00:34:09 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wesrom/public_html/routinie.com/media-login/linked_account.php:10) in /home/wesrom/public_html/routinie.com/media-login/login_google.php on line 43
+[27-Feb-2013 00:57:48 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wesrom/public_html/routinie.com/media-login/logged.php on line 5
+[27-Feb-2013 00:59:42 Europe/Bucharest] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wesrom/public_html/routinie.com/media-login/logged.php on line 30

@@ -1,0 +1,135 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	border: 0;
+}
+
+html, body{
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1, h2 , h3{
+	font-weight: 300;
+	color: #000;
+}
+
+a:link , a:visited,
+a:hover, a:active  {
+color: #555;
+}
+
+.wrapper {
+  min-height: 100%;
+	width: 980px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 980px;
+	height: 60px;
+	border-bottom: 1px solid #EEE;
+}
+
+.logo {
+	float: left;
+	margin-top: 15px;
+}
+
+.menu {
+	float: right;
+	margin-top: 33px;
+}
+
+.menu div {
+	text-align: center;
+	font-size: 0.78em;
+	font-weight: 600;
+	float: left;
+	width: 120px;
+	height: 23px;
+}
+
+.menu div:hover{
+	border-bottom: 4px solid #00E210;
+}
+
+#content {
+	width:840px;
+	font-weight: 400;
+	font-size: 0.8em;
+	margin: 30px auto 0;
+	color: #777;
+	padding-bottom: 63px;
+	overflow: auto;
+	
+}
+
+#pdf-button {
+	border-radius: 5px;
+	padding-top: 5px;
+	text-align: center;
+	float: right;
+	width: 180px;
+	height: 25px;
+	background-color: #00E210;
+	color: #FFF;
+	margin-top: 10px;
+	margin-right:2px;
+}
+
+#title h1{
+	margin-bottom: 5px;
+}
+
+.custom-color {
+	color: #00E210;
+}
+
+.footer {
+	margin: 0 auto; 
+	width: 980px;
+	border-top: 1px solid #EEE;
+	font-size: 0.7em;
+	margin-top: -44px;
+	height: 43px;
+	clear: both;
+}
+
+.footer .footer-right {
+	float: right;
+	cursor: pointer;
+	margin-right: 30px;
+	margin-top:5px;
+}
+
+.footer .footer-left a{
+	float: left;
+	cursor: pointer;
+	margin-left: 30px;
+	margin-top:5px;
+}
+
+.footer .footer-right a {
+	float: left;
+	margin-left: 30px;
+	cursor: pointer;
+}
+
+.footer div a {
+	color: #666;
+}
+
+.footer div a:hover {
+	color: #00E210;
+}
+
+
+

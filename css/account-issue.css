@@ -1,0 +1,193 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	border: 0;
+	outline: 0;
+}
+
+html, body{
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+}
+
+a {
+	text-decoration:none;
+}
+
+h2,h5 {
+	font-weight: 300;
+	color: #333;
+}
+
+h5 {
+	margin-top: 10px;
+	margin-left: 14px;
+}
+
+
+#header {
+	height: 37px;
+	background-color: #00B5EE;
+}
+
+#center-header {
+	height: 42px;
+	width: 381px;
+	margin: 0 auto;
+	font-size: 1.05em;
+}
+
+#center-header a:first-child {
+	width:80px;
+	float: left;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-left:-10px;
+	text-align: center;
+	color: #FFF;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	margin-right: -8px;
+}
+
+#center-header a:last-child {
+	width:80px;
+	float: right;
+	padding-top: 10px;
+	margin-top: 0px;
+	text-align: center;
+	color: #FFF;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	margin-right: -8px;
+}
+
+#error-message {
+	color: red;
+	height: 15px;
+	width: 306px;
+	padding-left: 2px;
+	margin: 5px auto -10px;
+	font-size: 0.7em;
+}
+
+#content {
+	width: 980px;
+	margin: 50px auto 0;
+	overflow: hidden;	
+	
+}
+
+#center-issue {
+	padding: 20px;
+	/* height: 150px; */
+	width: 335px;
+	border: 1px solid #DDD;
+	margin: 0 auto;
+	box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 3px;
+	margin-bottom:10px;
+}
+
+ 
+#center-issue h2 {
+	margin-left: 14px;
+}
+
+
+#center-issue input{
+	width: 285px;
+	height: 35px;
+	margin: 12px auto 0;
+	border: 1px solid #CCC;
+	font-size: 1.05em;
+	border-radius: 3px;	
+	padding-left: 20px;
+	margin-left: 14px;
+	font-family: 'Open Sans', sans-serif;
+	color: #888;
+}
+
+#center-issue input:focus {
+	outline: none;
+}
+
+#center-issue input::-webkit-input-placeholder {
+	color: #888;
+}
+
+#back-issue{
+	float: left;
+	width: 90px;
+	height: 28px;
+	padding-top: 5px;
+	margin-left: 15px;
+	margin-top: 12px;
+	background-color: #F4F4F4;
+	color: #888;
+	border: 1px solid #CCC;	
+	border-radius: 3px;
+	font-size: 1.05em;
+	font-weight: 400;
+	text-align: center;
+}
+
+input#send-instructions {
+	float: right;
+	color: #888;
+	border: 1px solid #CCC;
+	background-color: #F4F4F4;
+	cursor: pointer;
+	text-indent: 0;
+	padding-left: 0;
+	margin-right: 15px;
+	width: 190px;
+}
+
+#center-issue input:-moz-placeholder {
+	color: #888;
+}
+
+input, textarea {
+	font-family: 'Open Sans';
+	font-weight: 400;
+	color: #888; 
+}
+.placeholder { 
+	font-family: 'Open Sans';
+	font-weight: 400;
+	color: #888; 
+}
+
+.footer {
+	margin: 10px auto 20px; 
+	width: 980px;
+	border-top:;
+	font-size: 0.7em;
+	clear: both;
+}
+
+.footer .footer-center {
+	width: 200px;
+	cursor: pointer;
+	margin: -10px auto;
+	padding-left: 48px;
+}
+
+.footer div a {
+	color: #888;
+}
+
+.footer div a:hover {
+	color: #39C;
+}
+
+form {
+padding-bottom:50px;
+}

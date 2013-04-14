@@ -1,0 +1,39 @@
+[02-Dec-2012 15:22:03 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/wesrom/public_html/routinie.com/scripts/update_account.php on line 2
+[02-Dec-2012 15:22:22 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/wesrom/public_html/routinie.com/scripts/update_account.php on line 2
+[02-Dec-2012 15:46:42 Europe/Bucharest] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'wesrom'@'localhost' (using password: NO) in /home/wesrom/public_html/routinie.com/scripts/update_account.php on line 14
+[02-Dec-2012 15:46:42 Europe/Bucharest] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/wesrom/public_html/routinie.com/scripts/update_account.php on line 14
+[21-Dec-2012 00:31:07 Europe/Bucharest] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php:2) in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 3
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[21-Dec-2012 00:36:06 Europe/Bucharest] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/wesrom/public_html/routinie.com/scripts/save_gen_planner.php on line 8
+[26-Feb-2013 22:14:49 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:06 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:07 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:07 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7
+[26-Feb-2013 22:15:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '[' in /home/wesrom/public_html/routinie.com/scripts/get_linked_account.php on line 7

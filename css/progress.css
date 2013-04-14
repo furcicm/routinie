@@ -1,0 +1,267 @@
+#chart_div, #chart_div2 {
+	width: 300px;
+	float: right;
+	display: none;
+	position: absolute !important;
+	top: 0;
+	right: 0;
+	margin-top: 150px;
+
+}
+
+#progress-chart-container {
+	width: 531px;
+	min-height: 380px;
+	border: 1px solid #CCC;
+	padding: 10px;
+	position: relative;
+}
+
+.progress-chart-menu li {
+	display: inline-block;
+	min-width: 120px;
+	text-align: center;
+	padding: 3px;
+	margin: 5px;
+	cursor: pointer;
+	background: #00B5EE;
+	color: #FFF;
+	border-radius: 3px;
+}
+
+
+#chart-legend-container {
+	width: 300px;
+	float: left;
+	min-height: 200px;
+	font-weight: 300;
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+
+.chart-legend-name {
+	float: left;
+	min-width: 150px;
+	text-indent: 10px;
+	list-style: none;
+	margin-left: 20px;
+}
+
+.chart-legend-name li {
+	margin-top: 4px;
+}
+
+.chart-legend-value, .chart-legend-color {
+	list-style: none;
+	float: left;
+}
+
+.chart-legend-color li {
+	width: 12px;
+	height: 12px;
+	padding: 4px;
+	margin-top: 6px;
+}
+
+.chart-legend-color div {
+	width: 10px;
+	border-radius: 5px;
+	height: 10px;
+	display: block;
+}
+
+.chart-legend-name li, .chart-legend-value li {
+	height: 21px;
+	margin-top: 5px;
+}
+
+.chart-legend-day, .chart-legend-week {
+	display: none;
+}
+
+
+#progressbar-container {
+	width: 706px;
+	height: 40px;
+	border: 3px solid black;
+	border-radius: 10px;
+	padding: 3px;
+	margin-top: 15px;
+	float: right;
+}
+
+#progress {
+	width: 0%;
+	height: 100%;
+	background: rgb(99, 209, 37);
+	border-radius: 5px;
+}
+
+#progress-planner-container {
+	border: 1px solid rgb(191, 201, 206);
+	position: relative;
+	padding: 10px 10px 0 10px;
+}
+
+#progress-select-subcat {
+	height: 50px;
+	width: 150px;
+	border-radius: 5px;
+	font-size: 1.1em;
+	color: #666;
+	background: white;
+	padding-left: 12px;
+	margin: 15px 0px 0px 40px;
+}
+
+
+.progress-text {
+	display: block;
+	position: absolute;
+	margin-left: 343px;
+	font-size: 1.2em;
+	margin-top: 5px;
+	background: rgb(255, 255, 255);
+	min-width: 50px;
+	border-radius: 5px;
+	padding: 2px;
+	text-align: center;
+}
+
+.title.title-progress {
+	width: 535px;
+	color: #111;
+	background: #F4F4F4;
+	border: 1px solid #CCC;
+	border-bottom: none;
+	padding: 8px;
+}
+
+#select-progress-date {
+	border: 1px solid #AAA;
+	width: 124px;
+	min-height: 22px;
+	border-radius: 3px;
+	margin-left: -3px;
+	text-align: center;
+}
+
+.progress-date {
+	background: none !important;
+}
+
+.progress-chart-menu {
+	width: 70%;
+}
+
+#progress-chart-container p,
+#timeline-container p,
+#plans-container p {
+	margin: 5px 0 12px;
+	font-weight: 300;
+}
+
+#timeline-container, #plans-container {
+	width: 938px;
+	padding: 20px;
+	border: 1px solid #CCC;
+}
+
+#timeline-container .timeline-dropdown-item {
+	min-width: 150px;
+	height: 30px;
+	text-align: center;
+	padding-left: 14px;
+	margin-right: 60px;
+	background: #FFF;
+	border-radius: 3px;
+	border-color: #888;
+	color: #666;
+}
+
+#plans-container .plans-category {
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.plans-progress-bar {
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	height: 30px;
+	width: 450px;
+	position: relative;
+	margin-top: 35px;
+	padding: 2px;
+}
+
+.icon-right-open-big {
+	display: inline-block;
+	font-size: 2.3em;
+	margin-top: -12px;
+	position: absolute;
+	color: #CCC;
+}
+
+.icon-right-open-big.last {
+	right: 0;
+	margin-right: 10%;
+}
+
+.icon-right-open-big.first {
+	margin-left: 10%;
+}
+
+.icon-right-open-big.center {
+	margin-left: 45% !important;
+}
+
+.plans-last-progress {
+	width: 40%;
+	float: right;
+	font-size: 14px;
+}
+
+.plans-total-progress, .plans-current-plan {
+	width: 40%;
+	font-size: 14px;
+}
+
+.plans-subcategory{
+	margin: 15px 0;
+	font-weight: 600;
+}
+
+.plans-total-progress-data, .plans-current-plan-data, .plans-progress-status {
+	font-weight: 600;
+}
+
+.plans-current-plan {
+	margin-top: 20px;
+}
+
+.plans-progress-status {
+	margin: 15px 0 5px 0;
+	font-size: 15px;
+	width: 440px;
+}
+
+.plans-progress-advice {
+	font-size: 14px;
+}
+
+.progress-horizontal-line {
+	margin-top: 15px;
+	display: block;
+	margin-bottom: 30px;
+}
+
+.plans-current-progress-bar {
+	height: 100%;
+	background: #00B5EE;
+	border-radius: 3px;
+}
+
+.plans-progress-status-data {
+	width: 300px;
+}

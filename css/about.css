@@ -1,0 +1,158 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+html, body{
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1, h2 , h3{
+	font-weight: 300;
+	color: #000;
+}
+
+h1 {
+	font-size: 3.2em;
+	line-height: 1.15;
+}
+
+h2 {
+	font-size: 2.3em;
+	line-height: 1.15;
+}
+
+h3 {
+	font-size: 15px;
+	color: #777;
+	margin-top:10px;
+	font-weight: 400;
+}
+
+a:link , a:visited,
+a:hover, a:active  {
+color: #555;
+}
+
+#description-link {
+	border-bottom: 4px solid #39C;
+}
+
+.wrapper {
+  min-height: 100%;
+	width: 980px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 980px;
+	height: 60px;
+	border-bottom: 1px solid #EEE;
+}
+
+.logo {
+	float: left;
+	margin-top: 15px;
+}
+
+.menu {
+	float: right;
+	margin-top: 33px;
+}
+
+.menu div {
+	text-align: center;
+	font-size: 0.78em;
+	font-weight: 500;
+	float: left;
+	width: 120px;
+	height: 23px;
+}
+
+.menu div:hover{
+	border-bottom: 4px solid #39C;
+}
+
+#content {
+	width:805px;
+	margin: 30px auto 0;
+	padding-bottom: 63px;
+	overflow: auto;
+	
+}
+#title {
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.row div {
+	width: 375px;
+	height: 330px;
+	float: left;
+	background-color:;
+}
+
+.row div img {
+	width: 300px;
+
+}
+
+.row div h3 {
+	margin-top: 30px;
+}
+
+.row div:first-child {
+	margin: 20px 22.5px 20px 0;
+	text-align: center;
+}
+
+.row div:last-child {
+	margin: 20px 0 20px 22.5px;
+	text-align: center;
+}
+
+.footer {
+	margin: 0 auto; 
+	width: 980px;
+	border-top: 1px solid #EEE;
+	font-size: 0.7em;
+	margin-top: -44px;
+	height: 43px;
+	clear: both;
+}
+
+.footer .footer-right {
+	float: right;
+	cursor: pointer;
+	margin-right: 30px;
+	margin-top:5px;
+}
+
+.footer .footer-left a{
+	float: left;
+	cursor: pointer;
+	margin-left: 30px;
+	margin-top:5px;
+}
+
+.footer .footer-right a {
+	float: left;
+	margin-left: 30px;
+	cursor: pointer;
+}
+
+.footer div a {
+	color: #666;
+}
+
+.footer div a:hover {
+	color: #39C;
+}

@@ -1,0 +1,149 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body, ul, li, div, span, header, nav{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#main-wrapper {
+	border: 1px solid red;
+	width: 958px;
+	min-height: 700px;
+	margin: 0 auto;
+}
+
+#main-navigation {
+	width: 958px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#left-sidebar {
+	float: left;
+	width: 118px;
+	min-height: 300px;
+	border: 1px solid blue;
+	color: #00B5EE;
+}
+
+#right-sidebar {
+	float: right;
+	width: 238px;
+	min-height: 300px;
+	border: 1px solid blue;
+}
+
+#content-header {
+	width: 553px;
+	border: 1px solid black;
+	float: left;
+	margin: 1px;
+}
+
+#top-header {
+	height: 30px;
+margin-bottom: 20px;
+background-color: #00B5EE;
+
+}
+
+#left-sidebar img{
+	width: 50px;
+	margin-left: 36px;
+}
+
+#left-sidebar ul {
+	list-style: none;
+}
+
+#left-sidebar h3 {
+	margin: 0 auto;
+	text-align: center;
+	font-weight: 300;
+	font-size: 0.75em;
+}
+
+#left-sidebar a:link , #left-sidebar a:visited,
+#left-sidebar a:hover, #left-sidebar a:active  {
+color: #00B5EE;
+text-decoration: none;
+}
+
+#left-sidebar li:hover {
+	cursor: pointer;
+	background: rgba(172, 225, 250, 0.08);
+}
+
+.subcategory-active {
+	background: rgba(172, 225, 250, 0.08);	
+}
+
+#main-navigation li {
+	display: inline-block;
+	text-align: center;
+	margin: 6px 10px;
+	color: #FFF;
+	font-size: 0.85em;
+	font-weight: 400;
+}
+
+#h-menu-right {
+	float: right;
+}
+
+#h-menu-left {
+	float: left;
+}
+
+#content-header ul {
+	list-style: none;
+}
+
+#content-header li {
+	display: inline-block;
+	padding: 5px 15px;
+	margin: 4px 0px;
+	color: #00B5EE;
+}
+
+#content-header li:hover {
+	cursor: pointer;
+	background: rgba(172, 225, 250, 0.08);
+}
+
+#main-content {
+	border: 1px solid red;
+	min-height: 300px;
+	width: 553px;
+	margin-left: 1px;
+	margin: 41px 1px 1px;
+}
+
+#main-container {
+	border: 1px solid blue;
+	width: 557px;
+	float: left;
+	margin-left: 20px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.progress-planner-column-1 {
+	border: 1px solid red;
+	height: 90px;
+	width: 260px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+.progress-planner-column-2 {
+	border: 1px solid blue;
+	height: 90px;
+	width: 260px;
+	float: right;
+	margin-bottom: 10px;
+}

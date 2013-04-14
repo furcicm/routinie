@@ -1,0 +1,26 @@
+12/13/2012 05:28:23 pm -
+ok - \"You haven\'t finished any courses\" ar fi corect.
+
+12/13/2012 05:33:12 pm -
+Sunt de parere ca la campul \"Completed\" sa apara, in cazul in care nu exista nimic terminat in domeniul respectiv, subiectul (fie ca e \"book\", \"tutorial\", \"project\", \"sport\" etc.) sa apara la plural.
+
+12/13/2012 05:35:05 pm -
+ok - Fie \"You didn\'t add any music\", fie \"You haven\'t added any music\" ar fi corect.
+
+12/13/2012 05:37:20 pm -
+Contractele se pot termina? Acolo e pus cu sensul de \'am semnat 500 de contracte\' sau ...?
+
+12/13/2012 05:39:19 pm -
+ok - Poate e mai OK \"Add a new volunteering experience\" :)
+
+12/13/2012 05:40:34 pm -
+Ce tare-i \"Add some love\", haha :)
+
+12/13/2012 05:43:31 pm -
+N-ar trebui sa fie butonul de la \"Completed\" \"View Progress\"?
+
+12/13/2012 05:45:53 pm -
+ok - \"DOL\" din campul de \"Currency\" banuiesc ca se refera la dolari, nu? Daca da, atunci sugerez sa se schimbe in \"USD\".
+
+12/13/2012 05:46:36 pm -
+ok - \"Expenses\" e corect :)

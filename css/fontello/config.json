@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 59238,
+      "uid": "004882ab2d5c418c5b2060e80596279b",
+      "css": "right-open-big",
+      "orig_css": "right-open-big",
+      "orig_code": 59238,
+      "src": "entypo",
+      "from": 59238
+    }
+  ]
+}

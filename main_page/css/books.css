@@ -1,0 +1,37 @@
+#add-new {
+	padding: 10px;
+	font-size: 13px;
+}
+
+#add-new ul {
+	list-style: none;
+}
+
+#add-new input {
+	float: right;
+	height: 20px;
+	width: 360px;
+	margin: 10px 10px 0 0;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	outline: none;
+	text-indent: 5px;
+	padding: 1px;
+}
+
+#add-new li {
+	border-bottom: 1px solid #EEE;
+	height: 40px;
+	padding: 6px 0;
+	width: 460px;
+	margin: 0 auto;
+}
+
+#add-new .label {
+	display: block;
+	width: 60px;
+	float: left;
+	margin: 14px 8px 0 5px;
+	text-align: right;
+	color: #666;
+}
