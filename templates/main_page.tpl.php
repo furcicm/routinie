@@ -27,49 +27,49 @@
 		<section id="main-wrapper">
 			<aside id="left-sidebar" active=<?php print $selected_subcat; ?>>
 				<ul>
-					<a href="?cat=1">
+					<a href="?cat=1&subcat=books">
 						<li>
 							<img src="../images/education.png"/>
 							<h3>EDUCATION</h3>
 						</li>
 					</a>
 					
-					<a href="?cat=2">
+					<a href="?cat=2&subcat=work">
 						<li>
 							<img src="../images/business.png"/>
 							<h3>BUSINESS</h3>
 						</li>
 					</a>
 					
-					<a href="?cat=3">
+					<a href="?cat=3&subcat=sports">
 						<li>
 							<img src="../images/health.png"/>
 							<h3>HEALTH</h3>
 						</li>
 					</a>
 
-					<a href="?cat=4">
+					<a href="?cat=4&subcat=traveling">
 						<li>
 							<img src="../images/lifestyle.png"/>
 							<h3>LIFESTYLE</h3>
 						</li>
 					</a>
 
-					<a href="?cat=5">
+					<a href="?cat=5&subcat=relationships">
 						<li>
 							<img src="../images/social.png"/>
 							<h3>SOCIAL</h3>
 						</li>
 					</a>
 
-					<a href="?cat=6">
+					<a href="?cat=6&subcat=television">
 						<li>
 							<img src="../images/entertainment.png"/>
 							<h3>ENTERTAINMENT</h3>
 						</li>
 					</a>
 
-					<a href="?cat=7">
+					<a href="?cat=7&subcat=income">
 						<li>
 							<img src="../images/finance.png"/>
 							<h3>FINANCE</h3>
@@ -80,6 +80,7 @@
 			<div id="main-container">
 				<header id="content-header">
 					<ul>
+						<li class="main-page-home-button"><a href="/main_page/main_page.php"><img src="../images/home.png"></a></li>
 						<?php foreach ($subcats as $key => $value): ?>
 							<li value=<?php echo $key; ?>><?php echo ucfirst($value); ?></li>
 						<?php endforeach; ?>

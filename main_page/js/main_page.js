@@ -91,10 +91,12 @@
                 });*/
 
     $('#content-header').find('li').click(function(){
-      var subcat = $(this).html().toLowerCase();
-      var url = $(location).attr('href').split('&');
-      console.log(url[0]);
-      window.location.href = url[0] + '&subcat=' + subcat;
+      if ($(this).val() != 0) {
+        var subcat = $(this).html().toLowerCase();
+        var url = $(location).attr('href').split('&');
+        console.log(url[0]);
+        window.location.href = url[0] + '&subcat=' + subcat;
+      }
     });
    
 

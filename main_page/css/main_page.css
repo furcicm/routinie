@@ -147,3 +147,14 @@ text-decoration: none;
 	float: right;
 	margin-bottom: 10px;
 }
+
+.main-page-home-button {
+	padding: 0 !important;
+	margin: 3px 0 0 0 !important;
+	float: left;
+}
+
+
+.main-page-home-button img {
+	width: 30px;
+}
